@@ -1,6 +1,6 @@
 <div align="center">
 
-![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=64cd5d&text=Kubit&fontColor=1c1d1c&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=Backend%20Developer&descAlignY=70)
+![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=64cd5d&text=0Zeon&fontColor=1c1d1c&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=Backend%20Developer&descAlignY=70)
 
 
 </br>
@@ -37,9 +37,9 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=kubit2&show_icons=true&theme=flag-india" width=56% />
+    <img src="https://github-readme-stats.vercel.app/api?username=0Zeon&show_icons=true&theme=flag-india" width=56% />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubit2&layout=donut&show_icons=true&theme=flag-india" width=38% />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Zeon&layout=donut&show_icons=true&theme=flag-india" width=38% />
   </a>  
 </div>
